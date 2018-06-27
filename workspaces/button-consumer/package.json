@@ -1,0 +1,13 @@
+{
+  "name": "@cloudflare/button-consumer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@cloudflare/button-thing": "^1.0.0"
+  },
+  "scripts": {
+    "build": "tsc --declaration"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.3"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@cloudflare/button-thing",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc --declaration --project tsconfig.json"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.3"
+  }
+}

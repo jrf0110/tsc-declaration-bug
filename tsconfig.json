@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "jsx": "react",
+    "lib": ["dom", "es7"],
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true
+  }
+}
